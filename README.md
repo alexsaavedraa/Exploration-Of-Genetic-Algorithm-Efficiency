@@ -1,3 +1,7 @@
+
+![Hype GIf](https://user-images.githubusercontent.com/114758213/225159048-4ba3d7a6-8fc4-4c67-8368-c154274f70af.gif)
+
+
 # Exploration-Of-Genetic-Algorithm-Efficiency
 ## Workup: Environment, Bots, and Evolution
 If you are interested only in the results, skip to the results section. Otherwise, We start from Here:
