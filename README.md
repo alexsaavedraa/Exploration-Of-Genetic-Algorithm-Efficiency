@@ -30,4 +30,6 @@ They can be any shape, but for demonstration purposes, they will be made of cube
 
 ## Our bots have two different kinds of blocks, sensor blocks and regular blocks. Sensor Blocks can sense their angle.
 ![image](https://user-images.githubusercontent.com/114758213/225118685-ffd04391-54a9-4c69-b6c3-65a0e14f00d3.png)
+## Neurons Can be mapped directly from sensors to motor joints
+![image](https://user-images.githubusercontent.com/114758213/225119590-9be3ae82-259e-4d36-9fef-f3d2998853bf.png)
 
