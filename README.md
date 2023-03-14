@@ -53,4 +53,5 @@ Before Training, bots will have the weights of each neuron be random, but throug
 
 # Generating a Body
 ![image](https://user-images.githubusercontent.com/114758213/225142965-f2220ec9-9228-4eb7-b11b-d9861c744735.png)
+![image](https://user-images.githubusercontent.com/114758213/225144189-e88f3b35-a079-490d-84c2-384b67466e04.png)
 
