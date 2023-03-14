@@ -43,4 +43,8 @@ They can be any shape, but for demonstration purposes, they will be made of cube
 ## Brain Training:
 Before Training, bots will have the weights of each neuron be random, but through the process of training, the weights will adjust to produce higher fitness values
 ![image](https://user-images.githubusercontent.com/114758213/225135012-78d91bd3-71e5-4385-8cd7-71450e274bac.png)
+![image](https://user-images.githubusercontent.com/114758213/225135367-6a77a6b8-8c4a-4661-b3b3-875c12c857ba.png)
+
+## Here Are two RANDOM BRAINS
+![random Brains](https://user-images.githubusercontent.com/114758213/225137190-1c421c2d-c91c-44e3-b84d-4d26f6368019.gif)
 
