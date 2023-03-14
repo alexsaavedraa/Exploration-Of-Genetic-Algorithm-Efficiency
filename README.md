@@ -59,7 +59,7 @@ Before Training, bots will have the weights of each neuron be random, but throug
 ![image](https://user-images.githubusercontent.com/114758213/225147786-8d72e50f-5e5d-49e7-8a56-6e64ab2798f9.png)
 This same process is continued no matter how many parts are already added. 
 
-#Here is a Robot with 16 parts
+# Here is a Robot with 16 parts
 ![image](https://user-images.githubusercontent.com/114758213/225151237-0ae720bc-1907-4a08-83cf-05ea8f71f009.png)
 
 
