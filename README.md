@@ -47,4 +47,6 @@ Before Training, bots will have the weights of each neuron be random, but throug
 
 ## Here Is What Random Brains Look Like
 ![random Brains](https://user-images.githubusercontent.com/114758213/225137190-1c421c2d-c91c-44e3-b84d-4d26f6368019.gif)
+#Here Is what an Evolved Brain Looks Like
+![Evolved Brain](https://user-images.githubusercontent.com/114758213/225139030-1c3c13dd-eb22-464d-a6f9-b7454c3624dd.gif)
 
