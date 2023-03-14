@@ -23,7 +23,8 @@ They can be any shape, but for demonstration purposes, they will be made of cube
 ![image](https://user-images.githubusercontent.com/114758213/225113628-b9aa0867-c72e-467a-b2a1-b4c40bb898bd.png)
 ## Bot Parts are connected by Joints. The parts of the bot can rotate around the joint by a set number of degrees. In our simulations, it will be between 0 and 90. 
 ![image](https://user-images.githubusercontent.com/114758213/225115743-5b5c2685-337c-495a-8b6e-e31fb40048b0.png)
+## Next we add motors. We can Drive motors with Neurons (which we will get to)
 
 
 
-
+![Motors](https://user-images.githubusercontent.com/114758213/225117052-a06a4c13-f67e-402e-bab5-f51facd33658.gif)
