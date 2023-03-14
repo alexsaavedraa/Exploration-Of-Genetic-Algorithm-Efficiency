@@ -8,11 +8,7 @@ First we Create the ground plane:
 
 We Add Gravity, Collisions, and a Friction. We also add a box to show that our physics are working corectly
 Gravity:
-![image](https://user-images.githubusercontent.com/114758213/225110998-fb2cf664-5e30-44be-991b-7ff3d0bdc260.png)
-
-
-
-
+![ezgif-3-fdca56c21b](https://user-images.githubusercontent.com/114758213/225111210-9561f579-9f80-4f42-ad5b-8ab2ad2e9e45.gif)
 
 
 
