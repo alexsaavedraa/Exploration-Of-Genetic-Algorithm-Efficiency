@@ -34,3 +34,10 @@ They can be any shape, but for demonstration purposes, they will be made of cube
 ## Neurons Can be mapped directly from sensors to motor joints
 ![image](https://user-images.githubusercontent.com/114758213/225119590-9be3ae82-259e-4d36-9fef-f3d2998853bf.png)
 
+## Or they can pass through a hidden layer
+![image](https://user-images.githubusercontent.com/114758213/225120331-669dc04b-bfd8-48de-921c-10b80fe61bb8.png)
+
+## With many parts, all sensors and all neurons become connected, creating a brain:
+![image](https://user-images.githubusercontent.com/114758213/225121470-510e3bbd-e9e0-46c9-9975-cb5a5a198180.png)
+
+
