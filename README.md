@@ -3,6 +3,8 @@
 
 
 # Exploration-Of-Genetic-Algorithm-Efficiency
+![image](https://user-images.githubusercontent.com/114758213/225162496-1f0f3956-a996-473a-aa2f-af60fd6cb4d3.png)
+
 ## Workup: Environment, Bots, and Evolution
 If you are interested only in the results, skip to the results section. Otherwise, We start from Here:
 ### Environment
