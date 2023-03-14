@@ -68,7 +68,7 @@ A mutation is the process of adding between 1 and 5 parts, in the same way shown
 The fitness of the parent is measured against the fitness of the child. The ratio of parents to children kept is related to the fitness of each. The higher the fitness of an individual, the more likely it will be kept as part of the next generation
 As you can see in the diagram, evolution does not always entail adding more parts. Sometimes, parts may even be removed
 
-##Phenotypes and GenoTypes:
+## Phenotypes and GenoTypes:
 A phenotype is how a robot looks. The genotype is how a robot is stored or encoded. For this simulation, a direct encoding was used, meaning  each robot is stored as a list of parts and what other parts they are attatched to. the brain is stored as a list of neurons, their synapses, and their weights. In the future it may be interesting to explore the consequences of an indirect encoding. Here we can see the encoding of a body and brain in plaintext:
 ![image](https://user-images.githubusercontent.com/114758213/225157125-9381ce6a-a841-4fc7-a6b4-b94e4dd8adeb.png)
 
