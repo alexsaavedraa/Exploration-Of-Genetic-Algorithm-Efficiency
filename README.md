@@ -7,12 +7,11 @@ First we Create the ground plane:
 ![image](https://user-images.githubusercontent.com/114758213/225107083-899d8bf3-91a5-4294-b226-caf0c42d1eb7.png)
 
 We Add Gravity, Collisions, and a Friction. We also add a box to show that our physics are working corectly
-Gravity:
+## Gravity:
 ![ezgif-3-fdca56c21b](https://user-images.githubusercontent.com/114758213/225111210-9561f579-9f80-4f42-ad5b-8ab2ad2e9e45.gif)
 
-
-
-
+## When the block is moved, it comes to a stop due to the bullet physics engine's friction:
+![Friction](https://user-images.githubusercontent.com/114758213/225111692-1fa9526b-4af2-4de4-a4b1-21bebe399365.gif)
 
 
 
