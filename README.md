@@ -67,6 +67,8 @@ This same process is continued no matter how many parts are already added.
 ![image](https://user-images.githubusercontent.com/114758213/225151237-0ae720bc-1907-4a08-83cf-05ea8f71f009.png)
 
 ## What is Mutation, and Evolution?
+![image](https://user-images.githubusercontent.com/114758213/225160661-5017fd3e-ce70-486e-b5ce-08f145839a65.png)
+
 ![image](https://user-images.githubusercontent.com/114758213/225155260-b625260e-f3e1-4454-a0f2-c54c578709e7.png)
 A mutation is the process of adding between 1 and 5 parts, in the same way shown above, or changing the weight of one or more of the neurons in a brain.
 The fitness of the parent is measured against the fitness of the child. The ratio of parents to children kept is related to the fitness of each. The higher the fitness of an individual, the more likely it will be kept as part of the next generation
