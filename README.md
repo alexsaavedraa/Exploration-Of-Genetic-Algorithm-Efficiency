@@ -40,4 +40,7 @@ They can be any shape, but for demonstration purposes, they will be made of cube
 ## With many parts, all sensors and all neurons become connected, creating a brain:
 ![image](https://user-images.githubusercontent.com/114758213/225121470-510e3bbd-e9e0-46c9-9975-cb5a5a198180.png)
 
+## Brain Training:
+Before Training, bots will have the weights of each neuron be random, but through the process of training, the weights will adjust to produce higher fitness values
+![image](https://user-images.githubusercontent.com/114758213/225135012-78d91bd3-71e5-4385-8cd7-71450e274bac.png)
 
