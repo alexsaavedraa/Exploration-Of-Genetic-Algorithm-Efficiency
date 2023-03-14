@@ -22,6 +22,8 @@ They can be any shape, but for demonstration purposes, they will be made of cube
 ## One cube is a bot. So is Two cubes:
 ![image](https://user-images.githubusercontent.com/114758213/225113628-b9aa0867-c72e-467a-b2a1-b4c40bb898bd.png)
 ## Bot Parts are connected by Joints. The parts of the bot can rotate around the joint by a set number of degrees. In our simulations, it will be between 0 and 90. 
-![image](https://user-images.githubusercontent.com/114758213/225114585-381bca73-5244-4637-bd60-9f671c69677a.png)
+![image](https://user-images.githubusercontent.com/114758213/225115743-5b5c2685-337c-495a-8b6e-e31fb40048b0.png)
+
+
 
 
