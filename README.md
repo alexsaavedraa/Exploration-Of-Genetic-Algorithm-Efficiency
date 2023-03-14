@@ -14,4 +14,9 @@ We Add Gravity, Collisions, and a Friction. We also add a box to show that our p
 ![Friction](https://user-images.githubusercontent.com/114758213/225111692-1fa9526b-4af2-4de4-a4b1-21bebe399365.gif)
 
 
+# Bots!
+
+## A Bot is made from these cube shaped blocks. 
+They can be any shape, but for demonstration purposes, they will be made of cubes:
+![image](https://user-images.githubusercontent.com/114758213/225113095-1ad50df8-42bf-4c96-95ec-df0d769fed91.png)
 
