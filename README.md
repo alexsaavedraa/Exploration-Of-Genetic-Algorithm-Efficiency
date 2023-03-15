@@ -106,5 +106,6 @@ From this, we can see that there is a correllation between fitness at generation
 A bot will start at a random point in this landscape, then climb to the nearest local maximum. The problem is that most of the local maxima are much worse than the best local maxima
 
 By the tenth generation, the bots usually have climbed close to their local maximum and there is a 50-70% correllation between the local maximum at gen 10 and the maximum at gen 100. By not running bots with low fitness at generation 10, we can save up to 85% computation time and power.
-
+![image](https://user-images.githubusercontent.com/114758213/225203210-0fc1c080-4457-4471-a6a0-833f3b7f7e1d.png)
+In this graph, the yellow and purple dots represent local maximum that would be pruned, and red are the bots that would be kept. One drawback is that some bots with the potential to be good are pruned prematurely. 
 
