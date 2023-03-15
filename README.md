@@ -104,3 +104,7 @@ From this, we can see that there is a correllation between fitness at generation
 ![perlin noise](https://user-images.githubusercontent.com/114758213/225202352-f4f72d4d-7fd8-4334-bdcd-b6f671fa76cf.png)
 
 A bot will start at a random point in this landscape, then climb to the nearest local maximum. The problem is that most of the local maxima are much worse than the best local maxima
+
+By the tenth generation, the bots usually have climbed close to their local maximum and there is a 50-70% correllation between the local maximum at gen 10 and the maximum at gen 100. By not running bots with low fitness at generation 10, we can save up to 85% computation time and power.
+
+
