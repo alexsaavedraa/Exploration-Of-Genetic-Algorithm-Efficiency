@@ -109,3 +109,8 @@ By the tenth generation, the bots usually have climbed close to their local maxi
 ![image](https://user-images.githubusercontent.com/114758213/225203210-0fc1c080-4457-4471-a6a0-833f3b7f7e1d.png)
 In this graph, the yellow and purple dots represent local maximum that would be pruned, and red are the bots that would be kept. One drawback is that some bots with the potential to be good are pruned prematurely. 
 
+## Actually doing the pruning:
+![pruned fitness over time, 1450 sims vs 10k sims](https://user-images.githubusercontent.com/114758213/225203640-e6eae529-d36b-4d10-a83d-d24065a6052d.png)
+Here we can see a large number of the bots are pruned at their 10th generation, while only a few are allowed to continue. This required 1450 simulations, but it returns a higher average maximum fitness than an equivilant run of 10000 simulations
+
+
