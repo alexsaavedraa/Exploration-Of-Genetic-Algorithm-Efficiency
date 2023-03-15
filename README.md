@@ -92,6 +92,8 @@ A Correllation was found between fitness in the 10th and 100th generation. This 
 
 
 ![early fitness vs success in 1 population 100 generations](https://user-images.githubusercontent.com/114758213/225201912-a0f78045-0a4a-4ba5-b53c-d8aeb19e17a1.png)
+
 1 population and 100 generations
 ![image](https://user-images.githubusercontent.com/114758213/225201946-b1782304-a21f-470f-a460-c81ee4bcb2cb.png)
+
 20 population with 100 generations
