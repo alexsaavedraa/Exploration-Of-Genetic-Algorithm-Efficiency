@@ -145,3 +145,9 @@ To run the program, you must be on windows 11 with the requisite libraries. then
 ![image](https://user-images.githubusercontent.com/114758213/225209292-01eda8b8-4f63-4a0d-9303-e408c80a7e90.png)
 
 
+
+
+
+The shell will ask you if you want to see a robot. if you input y, it will display a fully evolved robot. if you input n, it will begin evolving robots. WARNING. EVOLVING ROBOTS QUICKLY GENERATES LARGE AMOUNTS OF NEW DATA, INCLUDING SCREENSHOTS OF YOUR SCREEN. IF YOU SCREEN IS THE WRONG SIZE, THE PROGRAM MAY FAIL.
+
+
