@@ -86,6 +86,12 @@ A phenotype is how a robot looks. The genotype is how a robot is stored or encod
 ![image](https://user-images.githubusercontent.com/114758213/225157125-9381ce6a-a841-4fc7-a6b4-b94e4dd8adeb.png)
 
 
+# Results!
+
+A Correllation was found between fitness in the 10th and 100th generation. This Allows us to predict early on what the final fitness will be, and prune simulations that are not good enought.
 
 
-
+![early fitness vs success in 1 population 100 generations](https://user-images.githubusercontent.com/114758213/225201912-a0f78045-0a4a-4ba5-b53c-d8aeb19e17a1.png)
+1 population and 100 generations
+![image](https://user-images.githubusercontent.com/114758213/225201946-b1782304-a21f-470f-a460-c81ee4bcb2cb.png)
+20 population with 100 generations
