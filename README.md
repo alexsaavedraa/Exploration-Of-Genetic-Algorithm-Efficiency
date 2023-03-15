@@ -97,3 +97,10 @@ A Correllation was found between fitness in the 10th and 100th generation. This 
 ![image](https://user-images.githubusercontent.com/114758213/225201946-b1782304-a21f-470f-a460-c81ee4bcb2cb.png)
 
 20 population with 100 generations
+
+
+From this, we can see that there is a correllation between fitness at generation 10 and generation 100. This makes intuitive sense if you look at a fitness landscape. The one shown here is perlin noise on a 3d graph
+
+![perlin noise](https://user-images.githubusercontent.com/114758213/225202352-f4f72d4d-7fd8-4334-bdcd-b6f671fa76cf.png)
+
+A bot will start at a random point in this landscape, then climb to the nearest local maximum. The problem is that most of the local maxima are much worse than the best local maxima
