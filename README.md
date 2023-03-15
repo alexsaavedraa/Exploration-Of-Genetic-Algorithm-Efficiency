@@ -4,7 +4,7 @@
 
 # Exploration-Of-Genetic-Algorithm-Efficiency
 ![image](https://user-images.githubusercontent.com/114758213/225162496-1f0f3956-a996-473a-aa2f-af60fd6cb4d3.png)
-Why should we care about efficiency? Genetic algorithms are incredibly expensive to compute over large sums of simulations. By understanding their behaivor, we can design better algorythms. 
+Why should we care about efficiency? Genetic algorithms are incredibly expensive to compute over large sums of simulations. By understanding their behaivor, we can design better algorithms. 
 
 ## See a quick Video Here about this work!
 https://youtu.be/OhrfD7lyt5k
