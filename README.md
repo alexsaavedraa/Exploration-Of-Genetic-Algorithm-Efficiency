@@ -123,3 +123,20 @@ This project was originally meant to analyze how body size and fitness were corr
 ![fit per Gen](https://user-images.githubusercontent.com/114758213/225205002-38e7a9e8-7878-44cd-ae66-993a4c975cd1.png)
 ![best per scatterplt](https://user-images.githubusercontent.com/114758213/225205003-c0d8c523-83a3-4f50-9371-d5cac1a776eb.png)
 ![all bots](https://user-images.githubusercontent.com/114758213/225205006-57bfcc52-337a-4a1a-a95d-73c842be8012.png)
+
+#Downloading the Code, data, and robots
+The Code requires the following libraries, many of which are default on python 3.10, and the rest of which can be installed with pip
+os
+numpy
+matplotlib
+pyrosim
+pybullet
+random
+copy
+time
+sys
+math
+screenshot
+glob
+pandas
+csv
