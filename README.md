@@ -123,13 +123,13 @@ It is clear that agressive pruning can lead to superior results with less simula
 ## Other Results:
 This project was originally meant to analyze how body size and fitness were correllated, but since large body sizes were too difficult to simulate, I pivotted to how to better run genetic algorithms. Never the less, a large amount of data was still collected\
 
-## Discussion
-This project encompassed over 130k simulations. Thats equivilent to 7kwh of electricity. Now imagine a class being offered 3 times a year with 100 students all doing similar projects. That gets to be a lot (2100 kwhs) of electricity really fast. Genetic algorithms are expensive. Its important to optimize them. If given more time, I would want to find which early generation most strongly predicts final fitness. 
+
 
 ![fit per Gen](https://user-images.githubusercontent.com/114758213/225205002-38e7a9e8-7878-44cd-ae66-993a4c975cd1.png)
 ![best per scatterplt](https://user-images.githubusercontent.com/114758213/225205003-c0d8c523-83a3-4f50-9371-d5cac1a776eb.png)
 ![all bots](https://user-images.githubusercontent.com/114758213/225205006-57bfcc52-337a-4a1a-a95d-73c842be8012.png)
-
+## Discussion
+This project encompassed over 130k simulations. Thats equivilent to 7kwh of electricity. Now imagine a class being offered 3 times a year with 100 students all doing similar projects. That gets to be a lot (2100 kwhs) of electricity really fast. Genetic algorithms are expensive. Its important to optimize them. If given more time, I would want to find which early generation most strongly predicts final fitness. 
 # Downloading the Code, data, and robots
 The Code requires the following libraries, many of which are default on python 3.10, and the rest of which can be installed with pip
 os
