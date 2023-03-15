@@ -111,9 +111,13 @@ In this graph, the yellow and purple dots represent local maximum that would be 
 
 ## Actually doing the pruning:
 ![pruned fitness over time, 1450 sims vs 10k sims](https://user-images.githubusercontent.com/114758213/225203640-e6eae529-d36b-4d10-a83d-d24065a6052d.png)
+
+
 Here we can see a large number of the bots are pruned at their 10th generation, while only a few are allowed to continue. This required 1450 simulations, but it returns a higher average maximum fitness than an equivilant run of 10000 simulations
 
 ![image](https://user-images.githubusercontent.com/114758213/225204670-8efe4e4f-1415-49c5-9a82-cc3567b678e8.png)
+
+
 It is clear that agressive pruning can lead to superior results with less simulations
 
 ## Other Results:
