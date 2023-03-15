@@ -140,3 +140,8 @@ screenshot
 glob
 pandas
 csv
+
+To run the program, you must be on windows 11 with the requisite libraries. then find start.ps1, and click run with powershell as shown below
+![image](https://user-images.githubusercontent.com/114758213/225209292-01eda8b8-4f63-4a0d-9303-e408c80a7e90.png)
+
+
