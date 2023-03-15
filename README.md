@@ -159,7 +159,7 @@ then find start.ps1, and click run with powershell as shown below
 The shell will ask you if you want to see a robot. if you input y, it will display a fully evolved robot. if you input n, it will begin evolving robots. WARNING. EVOLVING ROBOTS QUICKLY GENERATES LARGE AMOUNTS OF NEW DATA, INCLUDING SCREENSHOTS OF YOUR SCREEN. IF YOU SCREEN IS THE WRONG SIZE, THE PROGRAM MAY FAIL.
 
 
-# Acknoledgements
+# Acknowledgements
 
 this was done with the help of www.reddit.com/r/ludobots, pyrosim, my classmates, my TAs, and my professor at Northwestern University, Sam Kriegman. Much of the code is directly coppied from the subreddit's instructions. Other aspects of the code are made using generous support of coding forums like stack overflow.
 
