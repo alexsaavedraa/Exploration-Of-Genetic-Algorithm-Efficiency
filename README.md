@@ -141,7 +141,15 @@ glob
 pandas
 csv
 
-To run the program, you must be on windows 11 with the requisite libraries. then find start.ps1, and click run with powershell as shown below
+To run the program, you must be on windows 11 with the requisite libraries.
+First, extract the four folders from the datas folder as shown
+![image](https://user-images.githubusercontent.com/114758213/225211181-1ab9d83f-6f83-466b-9288-5caf2a01a4ae.png)
+this should put four new folders into the the code
+
+
+
+
+then find start.ps1, and click run with powershell as shown below
 ![image](https://user-images.githubusercontent.com/114758213/225209292-01eda8b8-4f63-4a0d-9303-e408c80a7e90.png)
 
 
